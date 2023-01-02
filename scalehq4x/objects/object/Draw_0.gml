@@ -5,4 +5,3 @@ draw_set_color(#dbd2b8);
 draw_text_ext(2,-3, instructions, 10, 230);
 draw_set_color(#ffffff);
 draw_self();
-
